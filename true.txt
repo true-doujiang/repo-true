@@ -5,3 +5,4 @@ very well well 1
 订单模块上线
 test分支：购物车模块
 登录模块上线 fix bug   fix bug2    fix bug3 fix bug4
+redis集群上线
