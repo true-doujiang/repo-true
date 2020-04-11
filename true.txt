@@ -1,5 +1,5 @@
 we can not be everythins to everyone and still be true ro ourself
 very well well 1
 用户中心上线
-购物车模块上线
+购物车模块上线 fix 物件丢失bug
 订单模块上线
