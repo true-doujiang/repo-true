@@ -4,4 +4,4 @@ very well well 1
 购物车模块上线 fix 物件丢失bug
 订单模块上线
 test分支：购物车模块
-登录模块上线
+登录模块上线 fix bug
